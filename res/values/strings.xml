@@ -77,5 +77,13 @@
     <string name="preferences_backup_summary">Backup all your data on the SD card</string>
     <string name="preferences_restore">Restore</string>
     <string name="preferences_restore_summary">Restore your data from the SD card</string>
+
+	<string name="preferences_category_synchronization">Synchronization</string>
+	<string name="preferences_sync">Sync with Google Books</string>
+	<string name="preferences_sync_summary">Sync your libraries with Shelves</string>
+	<string name="preferences_sync_interval">Sync interval</string>
+	<string name="preferences_sync_interval_summary">Set how often shelves should sync</string>
+	<string name="preferences_sync_dialog_title">Choose an interval</string>
+	
 </resources>
         

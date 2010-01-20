@@ -51,4 +51,20 @@
         <item>, der</item>
         <item>, das</item>
     </string-array>
+
+	<string-array name="human_intervals">
+		<item>1 hour</item>
+		<item>12 hours</item>
+		<item>1 day</item>
+		<item>3 days</item>
+		<item>1 week</item>
+	</string-array>
+	
+	<string-array name="intervals">
+		<item>1</item>
+		<item>12</item>
+		<item>24</item>
+		<item>72</item>
+		<item>168</item>
+	</string-array>
 </resources>

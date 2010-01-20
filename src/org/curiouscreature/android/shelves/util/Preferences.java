@@ -21,7 +21,9 @@ public final class Preferences {
 
     public static final String KEY_BOOKSTORE = "shelves.bookstore";
     public static final String KEY_IMPORT = "shelves.import";
-
+	public static final String KEY_SYNC = "shelves.sync";
+	public static final String KEY_SYNC_INTERVAL = "shelves.sync.interval";
+	
     Preferences() {
     }
 }
